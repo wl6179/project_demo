@@ -1,0 +1,15 @@
+{
+    "name": "wl6179/project_demo",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "7.1.3"
+    },
+    "authors": [
+        {
+            "name": "Chris Wang",
+            "email": "44533122@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": { }
+}
